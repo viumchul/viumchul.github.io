@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://viumchul.github.io/sitemap.html.gz
+Sitemap: https://viumchul.github.io/app/sitemap.html.gz
+Sitemap: https://viumchul.github.io/assets/sitemap.html.gz
+Sitemap: https://viumchul.github.io/css/sitemap.html.gz
+Sitemap: https://viumchul.github.io/includes/sitemap.html.gz
+Sitemap: https://viumchul.github.io/item/sitemap.html.gz
+Sitemap: https://viumchul.github.io/src/sitemap.html.gz
